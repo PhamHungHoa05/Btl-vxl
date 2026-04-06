@@ -1,5 +1,3 @@
-# Btl-vxl
-
 # Project Hệ thống phân tích chất lượng giấc ngủ
 
 Giảng viên hướng dẫn: TS. Hàn Huy Dũng
